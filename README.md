@@ -79,8 +79,6 @@ You can download the dataset from Kaggle:
 * Streamlit (web application)  
 * Jupyter Notebook (optional, for exploration)  
 
-Upload your work on a GitHub repo (**Frameworks_Assignment**).  
-Submit the URL for this repo to complete the assignment.  
 
 Install the required packages:
 
