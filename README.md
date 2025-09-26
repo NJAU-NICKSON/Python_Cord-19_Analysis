@@ -69,7 +69,6 @@ This will open a local web app in your browser where you can:
 You can download the dataset from Kaggle:  
 [CORD-19 Research Challenge](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 
-**Note:** The full dataset is very large. For this assignment, we'll work with just the metadata file or a sample of the data.
 
 ### Required Tools
 
