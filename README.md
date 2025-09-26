@@ -59,12 +59,33 @@ Launch the Streamlit application for interactive exploration:
 streamlit run cord19_analysis.py
 ```
 
+
 This will open a local web app in your browser where you can:
 
 * Explore publications by year
 * View top journals publishing COVID-19 research
 * Generate a word cloud of paper titles
 * Analyze the distribution of paper counts by source
+You can download the dataset from Kaggle:  
+[CORD-19 Research Challenge](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
+
+**Note:** The full dataset is very large. For this assignment, we'll work with just the metadata file or a sample of the data.
+
+### Required Tools
+
+* Python 3.7+  
+* pandas (data manipulation)  
+* matplotlib / seaborn (visualization)  
+* Streamlit (web application)  
+* Jupyter Notebook (optional, for exploration)  
+
+Upload your work on a GitHub repo (**Frameworks_Assignment**).  
+Submit the URL for this repo to complete the assignment.  
+
+Install the required packages:
+
+```bash
+pip install pandas matplotlib seaborn streamlit
 
 ## Expected Outputs
 
